@@ -1,0 +1,46 @@
+.main-content {
+    padding: 2em;
+  }
+  
+  .main-content section {
+    margin-bottom: 2em;
+  }
+  
+  .main-content h2 {
+    font-size: 2em;
+    color: #4CAF50;
+  }
+  
+  .main-content p {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .featured-content {
+    background-color: #f4f4f4;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 2em;
+  }
+  
+  .articles .article {
+    background-color: #fff;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
